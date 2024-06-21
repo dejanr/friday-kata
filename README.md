@@ -1,6 +1,6 @@
 # friday-kata
 
-#### One-stop reference to build friday-kata
+#### Repository with preconfigured environments for different languages and test suits, to get you started fast for your kata.
 
 ### [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
