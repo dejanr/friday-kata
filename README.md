@@ -1,4 +1,4 @@
-# firday-kata
+# friday-kata
 
 #### One-stop reference to build friday-kata
 
