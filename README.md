@@ -4,7 +4,7 @@
 
 ### [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
-[![Nix Flake](https://github.com/dejanr/friday-kata/actions/workflows/nix-flake.yml/badge.svg)](https://github.com/dejli/friday-kata/actions/workflows/nix-flake.yml)
+[![Nix Flake](https://github.com/dejanr/friday-kata/actions/workflows/nix-flake.yml/badge.svg)](https://github.com/dejanr/friday-kata/actions/workflows/nix-flake.yml)
 
 Pick the kata from [kata-log.rocks](https://kata-log.rocks/)
 
@@ -80,7 +80,7 @@ Add the following code into your `configuration.nix`:
 Clone this repository, and enter into it:
 
 ```
-$ git clone https://github.com/dejli/friday-kata.git
+$ git clone https://github.com/dejanr/friday-kata.git
 $ cd friday-kata
 ```
 
