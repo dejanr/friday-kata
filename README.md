@@ -6,20 +6,19 @@
 
 [![Nix Flake](https://github.com/dejanr/friday-kata/actions/workflows/nix-flake.yml/badge.svg)](https://github.com/dejli/friday-kata/actions/workflows/nix-flake.yml)
 
+Pick the kata from [kata-log.rocks](https://kata-log.rocks/)
+
 ## Structure
 
 - [Get Started](#get-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
 - [Usage](#usage)
-- [For Developers](#for-developers)
-  - [Build](#build)
-  - [Run](#run)
-- [Acknowledgements](#acknowledgements)
 
 ## Get Started
 
 Before exploring the project, there are several things that need to be prepared first as explained below.
+
 
 ### Prerequisites
 
