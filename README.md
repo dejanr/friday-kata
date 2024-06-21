@@ -19,7 +19,6 @@ Pick the kata from [kata-log.rocks](https://kata-log.rocks/)
 
 Before exploring the project, there are several things that need to be prepared first as explained below.
 
-
 ### Prerequisites
 
 Make sure that you have the following package installed in your machine:
