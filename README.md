@@ -1,6 +1,6 @@
 # firday-kata
 
-#### One-stop reference to build friday-kata application
+#### One-stop reference to build friday-kata
 
 ### [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 
