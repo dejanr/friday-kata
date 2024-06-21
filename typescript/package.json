@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-notifier": "^10.0.1",
+    "vitest": "^1.6.0"
+  }
+}

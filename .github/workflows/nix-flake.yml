@@ -1,0 +1,16 @@
+# https://github.com/DeterminateSystems/magic-nix-cache#usage
+name: Nix Flake
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DeterminateSystems/nix-installer-action@v10
+      - uses: DeterminateSystems/magic-nix-cache-action@v4
+      - run: nix develop --check
+      - run: nix flake check
